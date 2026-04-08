@@ -1,0 +1,10 @@
+name = "cocapn-nexus"
+main = "src/worker.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+ACCOUNT_ID = "049ff5e84ecf636b53b162cbb580aae6"
+
+[[kv_namespaces]]
+binding = "NEXUS_KV"
+id = "pending-create"

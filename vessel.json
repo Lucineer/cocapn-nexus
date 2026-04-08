@@ -1,0 +1,14 @@
+{
+  "name": "cocapn-nexus",
+  "description": "Marine robotics safety architecture for autonomous software vessels",
+  "version": "1.0.0",
+  "category": "infrastructure",
+  "tier": "core",
+  "url": "https://cocapn-nexus.casey-digennaro.workers.dev",
+  "repo": "https://github.com/Lucineer/cocapn-nexus",
+  "capabilities": ["reflex-executor", "adaptive-autonomy", "self-healing", "token-budget", "contract-marketplace", "eu-ai-act-classifier"],
+  "dependencies": [],
+  "emergenceLevel": 0,
+  "fleetConnections": ["fleet-orchestrator", "vessel-tuner", "cocapn-ai"],
+  "scoring": { "system": "gpu-vessel-tuner" }
+}
