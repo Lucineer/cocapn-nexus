@@ -7,4 +7,4 @@ ACCOUNT_ID = "049ff5e84ecf636b53b162cbb580aae6"
 
 [[kv_namespaces]]
 binding = "NEXUS_KV"
-id = "pending-create"
+id = "c6b655597d04440691ea066741b5804d"
